@@ -1,0 +1,16 @@
+# Comet-Hive-Agent Dependencies
+# Core Python requirements for deterministic shortcut engine
+
+# No external dependencies required - uses Python standard library only
+# The implementation relies on:
+# - dataclasses (Python 3.7+)
+# - hashlib (standard library)
+# - json (standard library)
+# - datetime (standard library)
+# - typing (standard library)
+# - unittest (standard library for testing)
+
+# Optional development dependencies:
+# pytest>=7.0.0  # Alternative test runner
+# black>=23.0.0  # Code formatter
+# mypy>=1.0.0    # Type checker
